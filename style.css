@@ -1,0 +1,48 @@
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.hero-bg{
+  background: linear-gradient(135deg, rgba(64, 93, 114, 1), rgba(64, 93, 114, 0.5));
+}
+
+h1{
+  font-family: Merriweather, serif;
+  color: #F7E7DC;
+}
+
+.body-text-hero{
+  font-family: Montserrat, sans-serif;
+  color: #F7E7DC;
+}
+
+.features-bg{
+  background: #E2DAD2;
+  height: 65px; 
+  width: 65px;
+}
+
+h2, h3{
+  font-family: Merriweather, sans-serif;
+  color: #405D72 !important;
+}
+
+body{
+  background-color: #FFF8F3;
+}
+
+li > a {
+  color: #F7E7DC !important;
+}
+
+.img-card{
+  object-fit: cover;
+  width: 500px;
+  height: 350px;
+}
+
+.body-bg{
+  background: #D2E9E9;
+}
